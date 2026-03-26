@@ -49,18 +49,8 @@ void test01()
 	str1.at(0) = 'h';
 	cout << str1 << endl;
 
-
-
-
-
-
-
-
-
 	
 }
-
-
 
 
 
